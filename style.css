@@ -1,0 +1,63 @@
+.two {
+
+background: #D4BFFF;
+}
+
+
+.one {
+font-family: Oswald;
+
+font-weight: 500;
+font-size: 100px;
+color: #9F88CF;
+line-height: 148px;
+text-align: center;
+}
+
+
+.three {
+
+color: #FFFFFF;
+
+}
+
+body {
+
+background: #9F88CF;
+
+}
+
+button {
+
+
+  width: 1140px;
+}
+
+
+.five {
+margin-left: 100px;
+font-size: 20px;
+  font-family: Rubik;
+
+  font-style: normal;
+font-weight: normal;
+}
+
+
+.eight {
+
+  margin-left: 110px;
+}
+
+.six {
+
+color: white;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 36px;
+
+}
+
+
